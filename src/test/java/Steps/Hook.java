@@ -5,9 +5,7 @@ import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
-/**
- * Created by Karthik on 10/17/2016.
- */
+
 public class Hook extends BaseUtil{
 
 
